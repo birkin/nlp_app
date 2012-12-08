@@ -12,6 +12,6 @@ urlpatterns = patterns( '',
   
   ( r'^keywords/$',  'nlp_app.views.keywords' ),
 
-  ( r'^keywords2/$',  'nlp_app.views.keywords2' ),
+  # ( r'^keywords2/$',  'nlp_app.views.keywords2' ),
     
   )

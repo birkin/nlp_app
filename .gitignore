@@ -1,4 +1,4 @@
-.hg
 *.pyc
 *settings*
-
+.DS_Store
+.hg

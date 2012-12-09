@@ -1,0 +1,62 @@
+Why is Wall Street losing its appetite for Apple?
+By By Michael Liedtke on December 07, 2012
+http://www.businessweek.com/ap/2012-12-07/why-is-wall-street-losing-its-appetite-for-apple
+SAN FRANCISCO (AP) — This holiday season is shaping up to be a record-breaking period for Apple as shoppers snap up iPhones and iPads. So, why is the world's most valuable company losing its luster with investors?
+
+Apple began selling the iPhone 5 on Sept. 21, the same day the company's stock hit an all-time peak of $705.07 per share. Since then, the stock has plunged nearly 25 percent, trimming the company's market value by more than $150 billion. On Friday, the stock fell almost 3 percent and closed at $533.25.
+
+The sell-off has had broad impact. It has reached beyond Apple's own stockholders because the company is the largest component in the Standard & Poor's 500 and Nasdaq composite index — two benchmarks that are tracked by widely held mutual funds and exchange traded funds, or ETFs.
+
+Apple comprises 4 percent of the S&P 500 and nearly 12 percent of the Nasdaq, according to FactSet. The Nasdaq has shed 6 percent since Apple's stock price peaked while the S&P 500 has declined 3 percent, the same as the Dow Jones industrial average, which doesn't include Apple in its basket of 30 stocks.
+
+Apple's abrupt descent is fueling a debate among market-watchers. Is the stock now a bargain, as some would argue? Or, is the recent markdown in Apple's value justified because the company has entered a phase of less innovation and slower revenue growth?
+
+Disagreements over the issue are contributing to unusual volatility in the stock. On Wednesday, Apple's stock fell 6.4 percent, the biggest one-day drop in more than four years. Just two-and-half weeks ago, the stock surged 7.2 percent for its biggest one-day gain in three years.
+
+There's no consensus regarding the cause, but one thing is clear: There have been more investors eager to sell Apple's stock than buy it in recent months, despite all the evidence indicating Apple's products have never been more popular.
+
+Here are three theories that seek to explain the recent downturn in Apple's stock:
+
+Theory: The Competition Conundrum
+
+Hypothesis: Apple's grip on the growing mobile computing market is loosening amid a wave of cheaper alternatives to the iPhone and iPad.
+
+The iPhone's early lead in the smartphone market already has been surrendered to the more than 500 million devices running on the free Android software made by Google Inc. By comparison, as of the end of September, Apple had shipped 271 million iPhones since its 2007 debut.
+
+Nokia phones running on the recently released Windows 8 system from Microsoft Corp. pose a new threat, especially in China, where Nokia has struck a deal with that country's largest wireless carrier. Meanwhile, struggling Research In Motion Ltd. is pinning its comeback hopes on a revamped operating system for the once-iconic BlackBerry to rekindle demand for that device.
+
+Now, there are signs the competition is putting pressure on Apple in the booming tablet computer industry that it launched in 2010 with the release of the iPad.
+
+In a report that likely contributed to Wednesday's steep drop in Apple's stock, research firm IDC predicted the iPad's share of the worldwide tablet market this year will decline to 54 percent from 56 percent in 2011. IDC said the iPad will dip below 50 percent by 2016.
+
+Meanwhile, the market share of tablets powered by Android, including Google's Nexus line and Amazon.com Inc.'s Kindle Fire, has climbed from 40 percent last year to 43 percent his year, according to IDC.
+
+Windows 8, which is designed to run on tablets, also is expected to chip at Apple's lead and latch on to 10 percent of the market by 2016, IDC said.
+
+The popularity of smaller tablets with seven-inch diagonal screens and retail prices below $200 has already forced Apple to make changes. The company responded by introducing the iPad Mini, which features a nearly eight-inch screen. The iPad Mini sells for $329, which helps Apple protect its profit margins and preserve its reputation for selling top-of-the-line products that merit prices a notch above the competition. Nevertheless, the iPad mini is undoubtedly diverting some sales from full-sized iPads, which sell at prices ranging from $399 to $829. That is one of the reasons BGC Financial analyst Colin Gillis expects the iPad's average selling price to fall by about $50 in the current quarter, which ends this month. That would be a 9 percent decline from the iPad's average price of $535 during the July through September period.
+
+Even if it's no longer the market leader, the iPhone remains hotter than ever. Based on figures released by wireless carrier AT&T earlier this week, Jefferies analyst Peter Misek predicts Apple will sell 53 million iPhones this quarter, primarily the newest model. That would be a more than 40 percent increase from Apple's previous one-quarter record of 37 million iPhones set in the period covering last year's holiday shopping season.
+
+Theory: The Creativity Contraction
+
+Hypothesis: Apple is running out of fresh ideas.
+
+Since Apple co-founder Steve Jobs died 14 months ago after a long battle with cancer, the company has mostly been fine-tuning products that were created under his visionary leadership. The former CEO's hand-picked successor, Tim Cook, is well-respected, but some investors are starting to wonder if Apple can conjure up another revolutionary product to catapult the company on another multiyear stretch of breakneck sales growth. Can Apple innovate like a hard-charging startup while maintaining its giant company stature?
+
+Smartphones and tablets "are starting to become more like commodities," Gillis said. "And how much upside is left if you are stuck in a commodities business? The question is: What is going to get Apple going again?"Most analysts believe Apple's next breakthrough will be a television that shares the same operating system as the iPhone and iPad. An Apple TV would give the company a prized perch on the biggest screen in most households and open up an array of new business opportunities.
+
+Jobs hinted that Apple had figured out how to produce a mesmerizing new TV during interviews he gave with his biographer, Walter Isaacson, before he died. That led many analysts to predict an "iTV" would come this year, only to be disappointed. Cook indicated Apple is still trying to develop the device during an interview that aired on NBC's "Rock Center" Thursday night.
+
+"When I go into my living room and turn on the TV, I feel like I have gone backwards in time by 20 to 30 years," Cook said. "It's an area of intense interest. I can't say more than that."
+
+Theory: The Fiscal Cliff Factor
+
+Hypothesis: Many long-time Apple shareholders are selling stock to lock in gains at a lower tax rate.
+
+Under laws set to expire Dec. 31, profits on stocks owned for at least a year are taxed at a 15 percent rate — much less than the rate earned income is taxed at.
+
+The recent drop notwithstanding, Apple's stock has still enjoyed an incredible run. It has more than quadrupled from about $120 per share since the iPhone's release in June 2007. Even investors who bought Apple's stock a year ago are still sitting on a gain of nearly 40 percent.
+
+Gillis, though, points out that savvy investors probably wouldn't be selling their Apple stock just to save some money on taxes if they truly believed the stock is destined to soar higher and make them even richer a year from now.
+
+"Sometimes, stocks just take a breather," he said. "And when you get to be as big as Apple, any shift in sentiment can have a material impact on the share price."

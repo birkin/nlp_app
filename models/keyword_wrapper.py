@@ -66,14 +66,20 @@ class KeywordWrapper( object ):
       self.keywords_stemmed_simple.append( word )
 
   def make_default_keywords( self ):
+    '''keywords stemmed & unstemmed'''
     assert type(self.document_thresh_stemmed) == pattern.vector.Document
     assert type(self.document_thresh_unstemmed) == pattern.vector.Document
     self.keywords_stemmed = self.document_thresh_stemmed.keywords( top=self.top_num )
     self.keywords_unstemmed = self.document_thresh_unstemmed.keywords( top=self.top_num )
     
   def make_additional_keywords( self ):
-    assert type(self.keywords_stemmed) == list;     assert type(self.keywords_stemmed[0]) == tuple
-    assert type(self.keywords_unstemmed) == list;   assert type(self.keywords_stemmed[0]) == tuple
+    '''unstemmed words not in stemmed list'''
+    assert type(self.keywords_stemmed) == list
+    if len( self.keywords_stemmed ) > 0:
+      assert type(self.keywords_stemmed[0]) == tuple
+    assert type(self.keywords_unstemmed) == list
+    if len( self.keywords_unstemmed ) > 0:
+      assert type(self.keywords_unstemmed[0]) == tuple
     ## make simple stemmed keyword list from (score, word) tuple
     temp_simple_stemmed = []
     for kw_tuple in self.keywords_stemmed:
@@ -175,6 +181,17 @@ class KeywordWrapperTest( unittest.TestCase ):
     kw.keywords_unstemmed = [(0.3, u'courageous'), (0.4, u'brain')]
     kw.make_additional_keywords()
     self.assertEqual( kw.keywords_unstemmed_additional, [(0.4, u'brain')] )
+
+
+
+  def test_make_additional_keywords_emptySource(self):
+    kw = KeywordWrapper()
+    kw.keywords_stemmed = []
+    kw.keywords_unstemmed = []
+    kw.make_additional_keywords()
+    self.assertEqual( kw.keywords_unstemmed_additional, [] )
+
+
 
   def test_build_explore_json_string(self): 
     kw = KeywordWrapper()
